@@ -18,3 +18,13 @@ This tool references US government and authoritative datasets for accurate, tran
 
 [https://levyio.com/](https://levyio.com/)
 
+
+## Try the Calculators
+
+Free, no-signup tax tools that use the data sources documented here:
+
+- [Income Tax Calculator](https://levyio.com/income-tax-calculator/)
+- [Tax Bracket Calculator](https://levyio.com/tax-bracket-calculator/)
+- [Withholding Calculator](https://levyio.com/withholding-calculator/)
+- [Paycheck Calculator](https://levyio.com/paycheck-calculator/)
+
